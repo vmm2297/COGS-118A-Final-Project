@@ -1,9 +1,9 @@
 # COGS-118A-Final-Project
 
 ## Problems
-1. Music genre recognition using [FMA: A Dataset for Music Analysis](http://archive.ics.uci.edu/ml/datasets/FMA%3A+A+Dataset+For+Music+Analysis) (classification)
-2. Flag country recognition using [Flags Dataset](http://archive.ics.uci.edu/ml/datasets/Flags) (classification)
-3. Facebook post comment prediction using [Facebook Comment Volume Dataset](http://archive.ics.uci.edu/ml/datasets/Facebook+Comment+Volume+Dataset) (regression)
+1. [Exam Performance Based on Student Background](https://www.kaggle.com/spscientist/students-performance-in-exams) (regression)
+2. [Rain Prediction in Australia](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package) (binary classification)
+3. [Sign Language Digit Recognition](https://www.kaggle.com/ardamavi/sign-language-digits-dataset) (multiclass classification)
 
 ## Learning Algorithms
 1. [Random Forests](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
@@ -19,5 +19,6 @@
 4. [Cross Entropy](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.log_loss.html#sklearn.metrics.log_loss)
 
 ## Resources
-1. [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.html)
+1. [Kaggle Datasets](https://www.kaggle.com/datasets)
 2. [Scikit Learn](https://scikit-learn.org)
+3. [Pandas](https://pandas.pydata.org/)
