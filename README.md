@@ -21,3 +21,4 @@
 4. [Pandas](https://pandas.pydata.org/)
 5. [Numpy](http://www.numpy.org/)
 6. [Scipy](https://www.scipy.org/)
+7. [Matplotlib](https://matplotlib.org/)
