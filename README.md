@@ -1,5 +1,8 @@
 # COGS-118A-Final-Project
 
+## Final Paper
+The final paper for the final project can be found here: [Final Paper.pdf](https://github.com/vmm2297/COGS-118A-Final-Project/blob/master/Final%20Paper.pdf)
+
 ## Problems
 1. [Exam Performance Based on Student Background](https://www.kaggle.com/spscientist/students-performance-in-exams) (regression, binary classification)
 2. [Car Price/Condition Acceptability](http://archive.ics.uci.edu/ml/datasets/Car+Evaluation) (binary classification)
